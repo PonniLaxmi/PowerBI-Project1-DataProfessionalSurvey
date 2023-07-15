@@ -11,7 +11,7 @@ This analysis is based on an online survey conducted by YouTuber Alex the Analys
 6. Salary Happiness Indicator: The survey aimed to understand the participants' happiness level with respect to their salary.
 
 ## Analysis
-Data Cleaning and transformation were done using PowerQueery and Data visualization by PowerBI.
+Data Cleaning and transformation were done using PowerQuery and Data visualization by PowerBI.
 
 ## Final Deliverables
 PowerBI dashboard
